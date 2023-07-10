@@ -1,6 +1,5 @@
-# WEBProject
+# Movies and TV Shows Explorer
 
-Proiect realizat de:
-Ghiorghi Ioana I2A2,
-Lungeanu Razvan I2A3,
-Lupu Cosmin-Daniel I2A2
+Project at University realised by me and two of my classmates.
+Realised with HTML, SCSS, Node.js, Typescript.
+Details about the project can be found in the documentation.
