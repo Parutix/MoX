@@ -1,4 +1,4 @@
-# Movies and TV Shows Explorer
+## Movies and TV Shows Explorer
 
 Project at University realised by me and two of my classmates.
 Realised with HTML, SCSS, Node.js, Typescript.
